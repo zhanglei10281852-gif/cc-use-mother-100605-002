@@ -1,0 +1,8 @@
+{"event_id": "sample-001", "device_id": "WT-A01", "ts_ms": 1760000000000, "clock_skew_ms": 320, "unit_serial": "SN-9001", "model_version": "v2", "fields": {"温度": 71.2, "负载": 80.1, "转速": 1450}}
+{"event_id": "sample-002", "device_id": "WT-A01", "ts_ms": 1760000005000, "clock_skew_ms": 320, "model_version": "v2", "fields": {"温度": 72.0}}
+{"event_id": "sample-003", "device_id": "WT-A01", "event_type": "alarm", "ts_ms": 1760000012000, "clock_skew_ms": 320, "alarm": {"code": "E103", "active": true}}
+{"event_id": "sample-004", "device_id": "WT-A01", "ts_ms": 1760000015000, "clock_skew_ms": 320, "model_version": "v2", "fields": {"温度": 88.5, "负载": 91.4}}
+{"event_id": "sample-005", "device_id": "WT-A01", "event_type": "alarm", "ts_ms": 1760000040000, "clock_skew_ms": 320, "alarm": {"code": "E103", "active": false}}
+{"event_id": "sample-006", "device_id": "WT-A01", "ts_ms": 1760000045000, "clock_skew_ms": -500, "model_version": "v3", "fields": {"桨距角": 4.2}}
+{"event_id": "sample-007", "device_id": "WT-A01", "event_type": "replacement", "ts_ms": 1760000060000, "clock_skew_ms": -500, "new_serial": "SN-9002", "new_model_version": "v3"}
+{"event_id": "sample-008", "device_id": "WT-A01", "ts_ms": 1760000065000, "clock_skew_ms": -500, "model_version": "v3", "fields": {"温度": 55.0, "负载": 30.0}}
